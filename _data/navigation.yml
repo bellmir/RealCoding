@@ -7,7 +7,7 @@ main:
   - title: "신승헌 소개"
     url: /seungheon/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "장성수 소개"
-    url: /hello4/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /SeongSu/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
