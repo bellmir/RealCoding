@@ -12,4 +12,4 @@ permalink: /SeongSu/
  * 웨이트 트레이닝
  * 맛집 탐방
 
-
+<img=src "https://cdnweb01.wikitree.co.kr/webdata/editor/202012/13/img_20201213164305_4fd49269.webp" width="70%" height="70%">
