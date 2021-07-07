@@ -9,5 +9,6 @@ ___
 본가는 대전이고 현재는 올라와서 기숙사 살고있습니다.
 
 ###### 좋아하는 책
-제가 제일 좋아하는 책은 *나는 나로 살기로 했다*입니다.
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/51J6WaOogGL.jpg)
+ 제가 제일 좋아하는 책은 *나는 나로 살기로 했다*입니다.
+
