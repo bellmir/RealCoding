@@ -8,12 +8,15 @@ permalink: /seungheon/
 * 이름 : 신승헌
 * 학과 : 소프트웨어학과
 * 이메일 : gody8756@ajou.ac.kr
+
 ---
+
 ### 좋아하는 영화
 - 노팅 힐 (Notting Hill, 1999)
 <img src = "https://user-images.githubusercontent.com/75475398/124723616-3253f580-df46-11eb-83d7-6cd036bd0c1f.jpg" width="70%" height="70%">
 
 * 개요
+
 **멜로/로맨스, 코미디
 영국
 감독 : 로저 미첼
