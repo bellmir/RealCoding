@@ -2,7 +2,4 @@
 permalink: /hello/
 ---
 
-### hello
-#### 2021 Practical Coding
-
-#### 갑돌이 
+### 임종용 페이지
