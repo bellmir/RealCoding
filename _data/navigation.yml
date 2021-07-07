@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "임종용 소개"
-    url: /hello/
+    url: /jongyong/
   - title: "김영웅 소개"
     url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "신승헌 소개"
