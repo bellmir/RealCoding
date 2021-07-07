@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-실전코딩1 blog
+##### 실전코딩1 blog
 
 ---
 # 실전코딩1 수업을 시작하며
