@@ -1,5 +1,5 @@
 ---
-permalink: /hello4/
+permalink: /SeongSu/
 ---
 
 ### 장성수 페이지
